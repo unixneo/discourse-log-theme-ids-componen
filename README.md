@@ -1,1 +1,1 @@
-# discourse-log-theme-ids-componen
+# discourse-log-theme-ids-component
