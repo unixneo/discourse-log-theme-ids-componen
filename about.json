@@ -1,0 +1,8 @@
+{
+  "name": "Discourse Log Theme IDs Component",
+  "version": "0.1",
+  "author": "Neo",
+  "description": "Logs active and current Discourse theme IDs in the browser console on app init.",
+  "license": "MIT"
+}
+
